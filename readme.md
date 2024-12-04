@@ -1,7 +1,7 @@
-#  :bike: Modern and Responsive Sidebar With Dark Mode 
+#  :bike: Sidebar With Dropdown Icons and Multiple Menu Sections
 
 ## :scroll: Overview 
-Modern sidebar design integrated with a clean administrative dashboard navigation menu and dark mode effect.
+Sample description
 
 ![screenshot](pics/screenshot1.png)
 ![screenshot](pics/screengif.gif)
